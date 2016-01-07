@@ -76,7 +76,8 @@ Username: root
 
 Password: 5iveL!fe
 
-Raspberry Pi-
+
+Raspberry Pi -
 
 Username: pi
 
