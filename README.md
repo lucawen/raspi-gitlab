@@ -68,11 +68,22 @@ Now, you need reconfigure the gitlab configs:
 sudo gitlab-ctl reconfigure
 ```
 
-### Credentials
+### Credentials and Commands
 
 Gitlab - Username: root | Password: 5iveL!fe
 
 Username: pi | Password: raspberry
+
+NGiNX Commands:
+```sh
+sudo service nginx start|stop|restart
+```
+Gitlab Commands:
+```sh
+sudo gitlab-ctl start|stop|restart|reconfigure 
+```
+
+*And others commands...
 
 License
 ----
