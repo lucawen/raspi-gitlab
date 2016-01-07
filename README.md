@@ -70,18 +70,9 @@ sudo gitlab-ctl reconfigure
 
 ### Credentials
 
-Gitlab -
+Gitlab - Username: root | Password: 5iveL!fe
 
-Username: root 
-
-Password: 5iveL!fe
-
-
-Raspberry Pi -
-
-Username: pi
-
-Password: raspberry
+Username: pi | Password: raspberry
 
 License
 ----
