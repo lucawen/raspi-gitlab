@@ -102,7 +102,7 @@ MIT
 
 
    [CloudFlare Sync]: <https://github.com/lucawen/flaresync>
-   [Mega]: <https://github.com/lucawen/flaresync>
+   [Mega]: <https://mega.nz/#!losH0L5a!nGPgCgs04Oyfpqd88OEPDzTWWrGUDOytyo7JDW-ZC1E>
    [Gitlab SMTP Settings]: <https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/smtp.md>
 
 
