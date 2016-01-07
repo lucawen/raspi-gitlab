@@ -66,7 +66,7 @@ server_name sv2.wakecloud.net;
 [...]
 ```
 
-For enable HTTP2 and add http2 to this line, like this:
+For enable HTTP2, add 'http2' to this line, like this:
 ```
 [...]
 listen 80 default_server http2;
