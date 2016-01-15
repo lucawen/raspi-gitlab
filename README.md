@@ -1,6 +1,5 @@
 # Raspi Gitlab
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg?style=flat-square)](http://sv2.wakecloud.net)
 
 This is a image for Raspberry Pi 2 with Gitlab installed and full working.
 
